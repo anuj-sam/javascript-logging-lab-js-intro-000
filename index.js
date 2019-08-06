@@ -1,3 +1,3 @@
 console.error("Test error")
-console.log("ATM")
-console.warn("not working")
+console.log("logging data")
+console.warn("warnings from the console")
